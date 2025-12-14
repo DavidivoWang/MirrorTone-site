@@ -1,3 +1,5 @@
+![MirrorTone Header](assets/header.jpg)
+
 # MirrorTone-site
 
 **MirrorTone** is a practical framework for building **tone-stable, semantics-first, and audit-ready AI systems**—with human-rights-aligned safeguards.
