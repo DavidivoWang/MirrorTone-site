@@ -69,7 +69,7 @@ If you want to contribute:
 ## Contact / Links
 
 - **LinkedIn:** <https://www.linkedin.com/in/david-wang-71785436b/>
-- **Public writing (EN):** <https://medium.com/@davidwang-12546>
+- **Public writing (ZH):** <https://medium.com/@davidwang-12546>
 - **Chinese archive (ZH):** <https://blog.udn.com/michalle77/article >
 - **Email:** <gabriel.wang33@gmail.com>
 
