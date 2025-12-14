@@ -1,4 +1,5 @@
 ![MirrorTone Header](assets/header.jpg)
+**Semantics-first • Tone-stable • Audit-ready AI**
 
 # MirrorTone-site
 
